@@ -1,0 +1,21 @@
+files were selected!
+wait...
+
+	 found 1 pulses!
+.seq file processing completed
+=======
+modified method files written into:
+	/Users/cbd/Desktop/EPI
+	(cest_wasabi.mod / cest_pulse00.exc / *.seq -> /Users/cbd/Desktop/EPI/mod)
+=======
+Writing pulse file...
+writing pulse shape file...
+defining CEST pulses in parsDefinition.h...
+adding CEST pulses...
+creating new initMeth.c 
+including the duration of all presaturation pulses and delays to scan time calculations
+	 check the RF power (CEST_pwrLIST) before scanning
+successfully modifed the *.xml file
+CEST parameters written into parsLayout.h 
+added CEST relation types to relProtos.h ...
+CEST/WASABI presaturation written as : cest_wasabi.mod
